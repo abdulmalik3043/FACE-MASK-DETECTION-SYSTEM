@@ -6,4 +6,4 @@ the person, authorities will get an alert email in real-time where the person’
 pop-up Warning Message where he/she would be advised to wear a mask before getting access. This
 project will be useful during the times of pandemic when people will be suggested to wear a mask
 when going in public. Wearing a face mask is a new norm today when going in public. It is very
-important to wear the mask to restrict the spread of vir
+important to wear the mask to restrict the spread of virus
